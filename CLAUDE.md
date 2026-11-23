@@ -3,7 +3,7 @@
 ## Proyecto
 - Nombre: JT Rent — alquiler de scooters en Málaga. Cliente de Benitek.
 - Repo: BenitoCode/JT-RENT- (único válido; los repos jt-rent y jt_rent son antiguos: no usarlos).
-- Tipo: web de cliente · landing · Skills: web-base
+- Tipo: web de cliente · landing
 - Objetivo: conseguir consultas de alquiler por WhatsApp. Bilingüe ES/EN.
 - Dominio: https://jt-rent.com
 
